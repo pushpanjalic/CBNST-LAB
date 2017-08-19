@@ -41,7 +41,7 @@ int main()
     printf("\nThe solution is: \n");
     for(i=1; i<=n; i++)
     {
-        printf("\nx%d=%f\t",i,x[i]); /* x1, x2, x3 are the required solutions*/
+        printf("\nx%d=%f\t",i,x[i]); 
     }
     return(0);
 }
